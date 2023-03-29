@@ -1,2 +1,1 @@
-# fantasma_corredor
-jogo de revisão
+# C20
